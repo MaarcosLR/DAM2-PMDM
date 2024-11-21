@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FightRecsApp</string>
+    <string name="bienvenida">¡Bienvenido a FightRecs! Desarrollada por: Marcos Lancha Rodríguez</string>
+    <string name="explicacion">FightRecs es la aplicación ideal para los fanáticos de los videojuegos de lucha. Te ofrece recomendaciones personalizadas basadas en tus gustos y preferencias. Descubre los mejores juegos de lucha, desde los clásicos hasta los más recientes, y guarda tus favoritos para jugarlos más tarde. ¡Explora y comparte tus recomendaciones con otros jugadores!</string>
+    <string name="btn1">Entra</string>
+</resources>
